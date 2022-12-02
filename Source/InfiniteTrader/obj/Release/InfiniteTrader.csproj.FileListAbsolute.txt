@@ -1,0 +1,7 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\1.4\Assemblies\InfiniteTrader.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.AssemblyInfoInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.AssemblyInfo.cs
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\InfiniteTrader\Source\InfiniteTrader\obj\Release\InfiniteTrader.dll

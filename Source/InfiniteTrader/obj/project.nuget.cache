@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R36jgq+OpHOlljBmFZ7h8mB4emU2QjmP8mqEua+IOt3GiDOsui/NlwSQ1N6hF2SRVmjTuWMkrO4XjNNT92ZIEQ==",
+  "success": true,
+  "projectFilePath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\InfiniteTrader\\Source\\InfiniteTrader\\InfiniteTrader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inade\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3563\\krafs.rimworld.ref.1.4.3563.nupkg.sha512"
+  ],
+  "logs": []
+}
