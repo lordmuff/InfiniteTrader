@@ -101,6 +101,7 @@ public class StockGenerator_AllGoods : StockGenerator
     public override bool HandlesThingDef(ThingDef thingDef)
     {
         return thingDef.BaseMarketValue > 0 && thingDef.tradeability != Tradeability.None &&
-               thingDef.thingClass != typeof(Building_Vent) && thingDef.thingClass != typeof(Building_PowerSwitch);
+               thingDef.thingClass != typeof(Building_Vent) && thingDef.thingClass != typeof(Building_PowerSwitch) &&
+               thingDef.stackLimit > 1;
     }
 }
